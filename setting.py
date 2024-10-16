@@ -149,10 +149,10 @@ SPIDER_MAX_RETRY_TIMES = 3  # 每个请求最大重试次数
 # FEISHU_WARNING_USER = None  # 报警人 {"open_id":"ou_xxxxx", "name":"xxxx"} 或 [{"open_id":"ou_xxxxx", "name":"xxxx"}]
 # FEISHU_WARNING_ALL = False  # 是否提示所有人， 默认为False
 # # 邮件报警
-# EMAIL_SENDER = ""  # 发件人
-# EMAIL_PASSWORD = ""  # 授权码
-# EMAIL_RECEIVER = ""  # 收件人 支持列表，可指定多个
-# EMAIL_SMTPSERVER = "smtp.163.com"  # 邮件服务器 默认为163邮箱
+EMAIL_SENDER = "Tsumaranaile@qq.com"  # 发件人
+EMAIL_PASSWORD = "kxephavuydcnbfga"  # 授权码
+EMAIL_RECEIVER = "913493911@qq.com"  # 收件人 支持列表，可指定多个
+EMAIL_SMTPSERVER = "smtp.qq.com"  # 邮件服务器 默认为163邮箱
 # # 企业微信报警
 # WECHAT_WARNING_URL = ""  # 企业微信机器人api
 # WECHAT_WARNING_PHONE = ""  # 报警人 将会在群内@此人, 支持列表，可指定多人
