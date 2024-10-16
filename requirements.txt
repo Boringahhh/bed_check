@@ -1,4 +1,3 @@
 ddddocr
 feapder
 PyExecJS
-numpy<2.0.0
